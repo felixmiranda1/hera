@@ -4,7 +4,7 @@
 |---|---|
 | Project | HERA — Humanoid Evaluation for Robotic Assembly |
 | Document | Development Roadmap |
-| Version | 0.4 |
+| Version | 0.5 |
 | Initial date | November 10, 2026 |
 | Status | Draft — Initial Planning |
 
@@ -101,7 +101,8 @@ Available task data, operational knowledge, drawings, and confidentiality rules.
 - [x] Define naming, version-control, branch, commit, and review conventions.
 - [x] Define technical-decision, requirement, source, and experiment records.
 - [x] Define public, internal, restricted, and confidential data-handling rules.
-- [ ] Create the GitHub repository and Google Drive workspace only after access and storage rules are approved.
+- [x] Create the private GitHub repository after access and storage rules are approved.
+- [ ] Create the Google Drive workspace after access and storage rules are approved.
 
 Confidential aircraft CAD must not be placed in a public repository or unrestricted cloud storage.
 
@@ -281,3 +282,4 @@ This roadmap will be updated progressively as the project advances.
 | 0.2 | 2026-11-10 | Condensed the roadmap, removed repeated content, and emphasized current status and next actions. |
 | 0.3 | 2026-11-10 | Removed the continuous activities, upcoming actions, open questions, and risk register sections. |
 | 0.4 | 2026-11-10 | Started DP2 and recorded the local repository conventions and data-handling rules. |
+| 0.5 | 2026-11-10 | Connected the private GitHub repository and separated GitHub and Google Drive tracking. |
