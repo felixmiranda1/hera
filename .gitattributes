@@ -1,0 +1,20 @@
+* text=auto
+
+*.md text eol=lf
+*.txt text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf
+*.urdf text eol=lf
+*.sdf text eol=lf
+*.usda text eol=lf
+
+*.usdc binary
+*.step binary
+*.stp binary
+*.iges binary
+*.igs binary
+*.CATPart binary
+*.CATProduct binary

@@ -1,0 +1,37 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python and notebook artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Build, cache, and log artifacts
+.cache/
+build/
+dist/
+*.log
+*.tmp
+
+# NVIDIA / Omniverse local artifacts
+.nvidia-omniverse/
+omniverse-cache/
+isaac-sim-cache/
+
+# Restricted project data: keep in approved controlled storage
+data/restricted/
+models/restricted/
